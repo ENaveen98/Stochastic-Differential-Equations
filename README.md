@@ -3,6 +3,10 @@
 In this repository I will be adding all the code snippets for simulating a number of Stochastic Differential Equations 
 using numerical methods and Monte-carlo Simulations.
 
+<p align="center">
+  <img src="Images/SDE.jpg">
+</p>
+
 Numerical method concepts involved
 1. Euler-Maruyama Method
 2. Milstein Method
